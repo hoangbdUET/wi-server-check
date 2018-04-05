@@ -1,0 +1,5 @@
+node_modules
+wi-check-server.iml
+package-lock.json
+logs/*
+.idea
